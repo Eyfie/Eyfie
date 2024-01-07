@@ -2,7 +2,7 @@
 
 - I'm a French junior web developer.
 - I'm a fresh graduate from the OpenClassroom's [Développeur web](https://openclassrooms.com/fr/paths/556-developpeur-web) formation.
-- I'm currently looking for a job as a Front end or Back end web developer mainly in the North East of France or in the Luxembourg area.
+- I'm currently looking for a job as a JS Frontend / Backend web developer mainly in the North East of France or in the Luxembourg area.
 
 <br />
 
@@ -26,18 +26,6 @@
 ### Back end development
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32px"/>](https://nodejs.org/en/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="32px"/>](https://expressjs.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="32px"/>](https://sequelize.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32px"/>](https://www.mysql.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32px"/>](https://www.mongodb.com/)
-
-<br />
-
-## Learning Roadmap
-###### Non exhaustive list of what I'm planning to learn in the near futur
-
-- [ ] Typescript
-- [ ] Vitest / Jest
-- [ ] GraphQL
-- [ ] Storybook
-- [ ] Docker
-- [ ] Github Actions
 
 <br />
 
